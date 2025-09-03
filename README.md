@@ -1,4 +1,4 @@
-# 📸 CepatFotokopi
+# **CepatFotokopi**
 
 **CepatFotokopi** adalah sebuah aplikasi berbasis web yang dibuat menggunakan **PHP**, **CSS**, dan **JavaScript** dengan dukungan database **MySQL**.  
 Proyek ini dirancang untuk membantu mengelola layanan fotokopi secara lebih cepat dan terorganisir.
