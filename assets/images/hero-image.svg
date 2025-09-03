@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background -->
+    <rect width="800" height="600" fill="#f8fafc"/>
+    
+    <!-- Printer Base -->
+    <rect x="200" y="300" width="400" height="200" rx="20" fill="#4f46e5"/>
+    <rect x="220" y="320" width="360" height="160" rx="10" fill="#3730a3"/>
+    
+    <!-- Printer Top -->
+    <rect x="250" y="200" width="300" height="100" rx="10" fill="#4f46e5"/>
+    <rect x="270" y="220" width="260" height="60" rx="5" fill="#3730a3"/>
+    
+    <!-- Paper Tray -->
+    <rect x="300" y="400" width="200" height="20" rx="5" fill="#6366f1"/>
+    
+    <!-- Paper Stack -->
+    <rect x="320" y="150" width="160" height="200" rx="5" fill="white" stroke="#4f46e5" stroke-width="2"/>
+    <rect x="330" y="160" width="140" height="180" rx="3" fill="white" stroke="#4f46e5" stroke-width="1"/>
+    
+    <!-- Decorative Elements -->
+    <circle cx="400" cy="250" r="20" fill="#6366f1"/>
+    <circle cx="400" cy="250" r="10" fill="#3730a3"/>
+    
+    <!-- Light Effect -->
+    <circle cx="400" cy="250" r="30" fill="#6366f1" opacity="0.2"/>
+</svg> 
